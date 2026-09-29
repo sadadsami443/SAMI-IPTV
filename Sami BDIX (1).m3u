@@ -358,4 +358,6 @@ https://prod-linear-media.toffeelive.com/cdn/live/asian_tv/playlist.m3u8?edge-ca
 https://prod-linear-media.toffeelive.com/cdn/live/sonypix_hd/playlist.m3u8?edge-cache-token=Expires=1790686825~Starts=1790683225~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=ILvZ92B1fjCVmGzWnJ2ckqzZjqrp4o-F8wf0FO4eQwXer7EVSSbd28PA00WicDoR7mSjVUjGMWZppnFiDUD6CQ
 #EXTINF:-1 tvg-logo="https://cdn.phototourl.com/member/2026-09-27-c85b395c-8452-442e-86fe-28effe6f89f5.png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢" ,DESH TV
 https://prod-linear-media.toffeelive.com/cdn/live/desh_tv/playlist.m3u8?edge-cache-token=Expires=1790686825~Starts=1790683225~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=ILvZ92B1fjCVmGzWnJ2ckqzZjqrp4o-F8wf0FO4eQwXer7EVSSbd28PA00WicDoR7mSjVUjGMWZppnFiDUD6CQ
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/member/2026-09-27-c85b395c-8452-442e-86fe-28effe6f89f5.png" group-title="𝐊𝐢𝐝𝐬" ,Super Hungama
+http://198.195.239.50:8095/SUPER.HUNGAMA/tracks-v1a1/mono.m3u8
 
