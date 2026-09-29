@@ -139,8 +139,6 @@ http://livetv.akr4m.com:8080/bdtv/restrem/27.m3u8
 https://drk6xq0vhn.gpcdn.net/live/zee_bangla_cinema_abr/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.phototourl.com/member/2026-09-27-c85b395c-8452-442e-86fe-28effe6f89f5.png" group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐁𝐚𝐧𝐠𝐥𝐚",Sananda TV
 http://live-stream.amarbanglatv.in:8080/hls/sanandatv/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/member/2026-09-27-c85b395c-8452-442e-86fe-28effe6f89f5.png" group-title="PROMO",Program Promo
-https://raw.githubusercontent.com/ahan443/ahan-live/refs/heads/main/promo/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.phototourl.com/member/2026-09-27-c85b395c-8452-442e-86fe-28effe6f89f5.png" group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐇𝐢𝐧𝐝𝐢",Colors HD
 http://202.70.146.135:8000/play/a00b/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.phototourl.com/member/2026-09-27-c85b395c-8452-442e-86fe-28effe6f89f5.png" group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐇𝐢𝐧𝐝𝐢",Colors Cineplex
