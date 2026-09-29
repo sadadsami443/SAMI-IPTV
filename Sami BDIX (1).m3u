@@ -1,6 +1,8 @@
 #EXTM3U
 #PLAYLIST: SAMI IPTV
 #EXTENC: UTF-8
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/member/2026-09-29-8b47058d-c47c-49d8-a647-c806b1fe8b4a.jpg" group-title="SAMI-IPTV Promo" ,SAMI IPTV- The IPTV Provider
+https://example.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.phototourl.com/member/2026-09-27-c85b395c-8452-442e-86fe-28effe6f89f5.png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Rajdhani
 https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
 #EXTINF:-1 group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢" tvg-logo="https://cdn.phototourl.com/member/2026-09-27-c85b395c-8452-442e-86fe-28effe6f89f5.png",BTV
