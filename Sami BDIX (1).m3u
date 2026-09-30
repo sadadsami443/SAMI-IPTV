@@ -3,6 +3,8 @@
 #EXTENC: UTF-8
 #EXTINF:-1 tvg-logo="https://cdn.phototourl.com/member/2026-09-29-8b47058d-c47c-49d8-a647-c806b1fe8b4a.jpg" group-title="SAMI-IPTV Promo" ,SAMI IPTV-The IPTV Provider
 https://example.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/member/2026-09-27-c85b395c-8452-442e-86fe-28effe6f89f5.png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢" ,Asian TV
+https://tvsen6.aynaott.com/pKb5k6NnzxsKpWUs6E8M/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.phototourl.com/member/2026-09-27-c85b395c-8452-442e-86fe-28effe6f89f5.png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Rajdhani
 https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
 #EXTINF:-1 group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢" tvg-logo="https://cdn.phototourl.com/member/2026-09-27-c85b395c-8452-442e-86fe-28effe6f89f5.png",BTV
@@ -234,6 +236,8 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Sangeetbhojpuri2/default/main.mpd
 https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
 #EXTINF:-1 tvg-logo="https://cdn.phototourl.com/member/2026-09-27-c85b395c-8452-442e-86fe-28effe6f89f5.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬",T Sports HD
 http://livetv.akr4m.com:8080/bdtv/restrem/2.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/member/2026-09-27-c85b395c-8452-442e-86fe-28effe6f89f5.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬" ,T Sports HD 2
+https://mycoffeetime.net/play/tSDRdsaoGGQ2qYgRPDEe9q-qMIzoahbJArH3W3vOiEaB97nXMpWmLb0Ts759Tjsp/m3u8
 #EXTINF:-1 tvg-logo="https://cdn.phototourl.com/member/2026-09-27-c85b395c-8452-442e-86fe-28effe6f89f5.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬",PTV
 https://flussonic.defineatoz.com/PTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.phototourl.com/member/2026-09-27-c85b395c-8452-442e-86fe-28effe6f89f5.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬",A Sports HD
@@ -342,4 +346,33 @@ https://yuppparoriglin.akamaized.net/181224/smil:wowkidzhindi.smil/playlist.m3u8
 https://mumt01.tangotv.in/O5aw8Zn3KHUSHBOOTVBANGLA/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.phototourl.com/member/2026-09-27-c85b395c-8452-442e-86fe-28effe6f89f5.png" group-title="𝐊𝐢𝐝𝐬" ,Super Hungama
 http://198.195.239.50:8095/SUPER.HUNGAMA/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/member/2026-09-27-c85b395c-8452-442e-86fe-28effe6f89f5.png" group-title="𝐌𝐮𝐬𝐢𝐜" ,ATN Music
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/member/2026-09-27-c85b395c-8452-442e-86fe-28effe6f89f5.png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢" ,BTV Chattogram
+https://tvsen6.aynaott.com/TjGR1GcxKetHNVcMVxbq/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/member/2026-09-27-c85b395c-8452-442e-86fe-28effe6f89f5.png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢" ,Doyel TV
+https://3d46w.doyeltv.com/memfs/aa3aa6f7-ec12-41a2-8183-a891e157bbf8.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/member/2026-09-27-c85b395c-8452-442e-86fe-28effe6f89f5.png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢" ,Enter TV
+https://live1.entertv.com.bd/entertv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/member/2026-09-27-c85b395c-8452-442e-86fe-28effe6f89f5.png" group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐁𝐚𝐧𝐠𝐥𝐚" ,Aakaash Aath
+https://mumt03.tangotv.in/Dsly5z3HAAKASHAATH/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/member/2026-09-27-c85b395c-8452-442e-86fe-28effe6f89f5.png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢" ,DD Bangla
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/member/2026-09-27-c85b395c-8452-442e-86fe-28effe6f89f5.png" group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐇𝐢𝐧𝐝𝐢" ,Goldmines Action
+https://mumt03.tangotv.in/Dsly5z3HGOLDMINESACTION/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/member/2026-09-27-c85b395c-8452-442e-86fe-28effe6f89f5.png" group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐇𝐢𝐧𝐝𝐢" ,Sony Max 2
+https://drk6xq0vhn.gpcdn.net/live/max_2_abr/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/member/2026-09-27-c85b395c-8452-442e-86fe-28effe6f89f5.png" group-title="𝐌𝐮𝐬𝐢𝐜" ,9X Jhakaas
+https://wiselp.wiseplayout.com/9X_Jhakaas/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/member/2026-09-27-c85b395c-8452-442e-86fe-28effe6f89f5.png" group-title="𝐌𝐮𝐬𝐢𝐜" ,9X Tashan
+https://wiselp.wiseplayout.com/9X_Tashan/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/member/2026-09-27-c85b395c-8452-442e-86fe-28effe6f89f5.png" group-title="𝐌𝐮𝐬𝐢𝐜" ,Balle Balle
+https://mcncdndigital.com/balleballetv/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/member/2026-09-27-c85b395c-8452-442e-86fe-28effe6f89f5.png" group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐇𝐢𝐧𝐝𝐢" ,Sony KAL
+https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/spt_sonykal_1/lg_us/latest/main/hls/playlist.m3u8
+
+
+
+
+
 
