@@ -360,6 +360,15 @@ https://wiselp.wiseplayout.com/9X_Tashan/master.m3u8
 https://mcncdndigital.com/balleballetv/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.phototourl.com/member/2026-09-27-c85b395c-8452-442e-86fe-28effe6f89f5.png" group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐇𝐢𝐧𝐝𝐢" ,Sony KAL
 https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/spt_sonykal_1/lg_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/member/2026-09-27-c85b395c-8452-442e-86fe-28effe6f89f5.png" group-title="𝐊𝐢𝐝𝐬" ,Hungama
+http://198.195.239.50:8095/HUNGAMA/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/member/2026-09-27-c85b395c-8452-442e-86fe-28effe6f89f5.png" group-title="𝐊𝐢𝐝𝐬" ,Nick Jr
+http://198.195.239.50:8095/nickJr/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/member/2026-09-27-c85b395c-8452-442e-86fe-28effe6f89f5.png" group-title="Hollywood" ,Sony PIX HD
+http://198.195.239.50:8095/SONY.PIX.HD/tracks-v1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/member/2026-09-27-c85b395c-8452-442e-86fe-28effe6f89f5.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬" ,Sony Sports 3
+http://198.195.239.50:8095/SONY.SPORTS.3/tracks-v1a1/mono.m3u8
+
 
 
 
