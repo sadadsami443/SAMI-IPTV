@@ -108,7 +108,7 @@ http://198.195.239.50:8095/sonic/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.phototourl.com/member/2026-09-27-c85b395c-8452-442e-86fe-28effe6f89f5.png" group-title="𝐊𝐢𝐝𝐬",Disney HD
 http://88.212.15.19/live/disney_channel_hun/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.phototourl.com/member/2026-09-27-c85b395c-8452-442e-86fe-28effe6f89f5.png" group-title="𝐊𝐢𝐝𝐬",Sony YaY
-https://drk6xq0vhn.gpcdn.net/live/sony_yay_abr/index.m3u8
+https://stream.ottplus.live/live/sony_yay_abr/live/sony_yay_720/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.phototourl.com/member/2026-09-27-c85b395c-8452-442e-86fe-28effe6f89f5.png" group-title="𝐊𝐢𝐝𝐬",Cartoon Network HD
 https://drk6xq0vhn.gpcdn.net/live/cn_hd_abr/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.phototourl.com/member/2026-09-27-c85b395c-8452-442e-86fe-28effe6f89f5.png" group-title="𝐊𝐢𝐝𝐬",Cartoon Network
